@@ -1,5 +1,6 @@
 # HammingCodeWithDictionaries
-Assignment from Computer Organization and Architecture subject.
+
+Project developed in 2020 as an assignment for a Computer Organization and Architecture class.
 
 The input is a single number with the number of N lines that will follow.
 
